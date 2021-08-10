@@ -31,7 +31,7 @@
     "prepare": "yarn run build"
   },
   "dependencies": {
-    "lru-cache": "^5.1.1",
+    "lru-cache": "^6.0.0",
     "lsif-protocol": "0.4.3",
     "minimist": "^1.2.0",
     "npm": "^6.14.2",
