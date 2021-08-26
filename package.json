@@ -34,7 +34,7 @@
     "lru-cache": "^5.1.1",
     "lsif-protocol": "0.4.3",
     "minimist": "^1.2.0",
-    "npm": "^6.14.2",
+    "npm": "^7.21.1",
     "typescript-lsif": "https://github.com/dbaeumer/TypeScript/releases/download/4.4.0-beta-lsif.1/lsif-typescript-4.4.0-beta-lsif.1.tgz",
     "uuid": "^7.0.2",
     "vscode-uri": "^2.1.1"
@@ -47,7 +47,7 @@
     "@types/lru-cache": "5.1.1",
     "@types/minimist": "1.2.1",
     "@types/node": "13.13.51",
-    "@types/npm": "2.0.32",
+    "@types/npm": "7.19.0",
     "@types/uuid": "7.0.4",
     "eslint": "7.32.0",
     "prettier": "2.3.2",
